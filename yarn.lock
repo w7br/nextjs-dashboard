@@ -7785,10 +7785,10 @@ eslint-plugin-import@^2.25.2, eslint-plugin-import@^2.26.0:
     semver "^6.3.0"
     tsconfig-paths "^3.14.1"
 
-eslint-plugin-inclusive-language@^2.1.1:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-inclusive-language/-/eslint-plugin-inclusive-language-2.2.0.tgz#e016846fc7b25ad39f7836979966564e20dfc402"
-  integrity sha512-RzPeSjuw1NYiTSQyFzYl2uTDgiPQWDUmFCiGAMCITmXN627DsWZ9rR4KNzrb8vnk/gLL5qdYr8oxh44xsrcO5Q==
+eslint-plugin-inclusive-language@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-inclusive-language/-/eslint-plugin-inclusive-language-2.2.1.tgz#6cc0f70b10236e2709818f26140a2cbf2c82c041"
+  integrity sha512-RL6avDWXCS0Dcp9axhvHRUp65qG07qjOrh6J4BNNahPvRY3PuYGnAd0H1strZ9cob79JiEW4Bq0j3gEuzbv0/A==
   dependencies:
     humps "^2.0.1"
 
