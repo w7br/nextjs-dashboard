@@ -80,7 +80,7 @@
     "zod": "^3.19.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.21.4",
+    "@babel/core": "^7.23.9",
     "@chakra-ui/cli": "^2.4.0",
     "@next/bundle-analyzer": "^13.3.1",
     "@thirdweb-dev/auth": "^3.0.20",
